@@ -1,0 +1,11 @@
+{
+  "name": "avalanche",
+  "version": "0.0.1",
+  "private": true,
+  "main": "index",
+  "dependencies": {
+    "underscore": ">=1.4.4",
+    "node.extend": "*",
+    "traverse": "*"
+  }
+}

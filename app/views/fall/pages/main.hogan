@@ -1,0 +1,5 @@
+The current season is <i>{{season}}</i>
+<br/>
+{{> weather}}
+<br/>
+{{> trees.pine}}
