@@ -3,8 +3,9 @@
   "version": "0.0.2",
   "main": "index",
   "dependencies": {
-    "underscore": ">=1.4.4",
+    "file": "^0.2.2",
     "node.extend": "*",
-    "traverse": "*"
+    "traverse": "*",
+    "underscore": ">=1.4.4"
   }
 }
